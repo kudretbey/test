@@ -1,3 +1,5 @@
 Merhaba bu benim ilk git - github denemem
 
-gitHub uzerinden yapilan degisiklik
+GitHub uzerinden yapilan degisiklik
+
+AAAA aaa
